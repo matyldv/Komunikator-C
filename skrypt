@@ -1,0 +1,4 @@
+#!/bin/bash
+
+gcc -Wall inf141276_k.c -o klient
+gcc -Wall inf141276_s.c -o serwer
