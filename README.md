@@ -1,2 +1,2 @@
 # Komunikator C
-kilent serwer
+IPC Short Message Service – C
