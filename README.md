@@ -1,1 +1,2 @@
-# Komunikator-C-
+# Komunikator C
+kilent serwer
